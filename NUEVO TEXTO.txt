@@ -1,4 +1,8 @@
 difjdngofklg
 
 
+<<<<<<< HEAD
 ESTE ES MASTER
+=======
+CAMBIO DESDE NUEVO
+>>>>>>> nuevo
